@@ -1,0 +1,12 @@
+{
+  "name": "ffmt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mozlite/ffmt.git",
+  "author": "网魂小兵 <myxbing@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "encoding": "^0.1.12",
+    "jschardet": "^2.1.0"
+  }
+}
